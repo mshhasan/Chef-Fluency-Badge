@@ -1,4 +1,4 @@
 file 'default www' do
-	path '/var/www/htlm/index.htlm'
+	path '/var/www/html/index.html'
 	content 'Hellow Family'
 end
